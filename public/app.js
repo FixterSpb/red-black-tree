@@ -1,4 +1,4 @@
-const API = 'https://run.mocky.io/v3/a5bac1c5-9593-4b58-8c31-d7fab97d5863';
+const API = 'http://127.0.0.1:8082/';
 
 const RADIUS = 30;
 const SPACE = 2 * RADIUS;
